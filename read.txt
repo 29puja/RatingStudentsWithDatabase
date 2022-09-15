@@ -1,0 +1,19 @@
+->Project title:-Rating Students CoreJava:Without Using Database
+
+->Project Description:-Artha educational institute wants to implement a programmed solution to compute average assignment rating and overall  rating for each student and/or subjects to measure effectiveness of learning. For each subject, the overall ratings determined by ratings on various categories, including tests, quizzes, lab works, projects, etc.  
+The percentages of the categories should add to 100%. The number of assignments from each category is unspecified and can change at any time.
+
+->Database:-MySql Server 8.0.30.
+
+->Software Requirements:-
+1.MySql Workbench 8.0
+2.MySql Server 8.0.30
+Steps to export data in MySql Workbench:
+step-1 click on database dropdown on upper bar of workbench.
+step-2 Write location of file
+step-3 Click button
+
+->To run Project:-
+Step-1 Run Crud.java File.
+Step-2 Select options from give list.
+Step-3 Enter valid input as mention on screen. 
